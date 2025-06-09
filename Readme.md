@@ -1,4 +1,4 @@
- Algoritmo de Bellman-Ford – Aplicação Didática
+# Algoritmo de Bellman-Ford – Aplicação Didática
 
 Este projeto apresenta a aplicação do **algoritmo de Bellman-Ford** sobre um grafo direcionado e ponderado, com foco em aprendizado e visualização de caminhos mínimos a partir de um único vértice.
 
